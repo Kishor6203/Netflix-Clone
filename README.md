@@ -58,8 +58,6 @@ Netflix-Clone/
 Create a `.env` file in the root directory and add:
 
 ```env
-# TMDB
-VITE_TMDB_API_KEY=d27f0737d6739ff0e86176af07922efc
 
 # Firebase
 VITE_FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
